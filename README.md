@@ -1,45 +1,29 @@
 <p align="center">
-  <img src="assets/profile-banner-orbit.svg" alt="Max Yang — Cloud Infrastructure Engineer and AI Enthusiast. Exploring reliable systems and the next generation of AI agents." width="100%" />
+  <img src="assets/profile-banner-hello.svg" alt="Hey, I'm Max. A cloud infrastructure engineer exploring AI agents and open source." width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/pandacooming">GitHub</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://x.com/max_yangcn">X · @max_yangcn</a>
-</p>
+### Hey, I'm Max 👋
 
-<br />
+Cloud infrastructure engineer, AI enthusiast, and always curious about how things work. Here you'll find a few projects I'm exploring and learning from.
 
-### A little about me
+### Things I'm into
 
-I'm **Max**, a cloud infrastructure engineer interested in how AI agents work—and the infrastructure that helps them run reliably. I explore open-source projects across agents, developer tooling, and AI systems.
+- ☁️ **Cloud infrastructure** — keeping things running and understanding what happens under the hood.
+- 🤖 **AI agents** — trying out frameworks, tools, and ideas.
+- 🌱 **Open source** — reading code, following interesting projects, and learning along the way.
 
-<br />
+### Currently exploring
 
-### What catches my attention
+A few projects I've forked to take a closer look. Credit goes to the upstream teams!
 
-| &nbsp; | Focus | Interests |
-| :--- | :--- | :--- |
-| **01** | **Cloud infrastructure** | Reliable services and the systems behind them. |
-| **02** | **AI agents** | Frameworks, orchestration, and tools for developers. |
-| **03** | **Open source** | Learning by exploring how things are built. |
-
-<br />
-
-### On my radar
-
-A few public forks from projects I'm following. All credit to their upstream teams.
-
-| Project | Why I'm following it |
+| Project | What caught my eye |
 | :--- | :--- |
-| **[hermes-agent](https://github.com/pandacooming/hermes-agent)** | Exploring AI agents.<br /><sub>Upstream ↗ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)</sub> |
-| **[open-managed-agents](https://github.com/pandacooming/open-managed-agents)** | Exploring managed agent systems.<br /><sub>Upstream ↗ [rogeriochaves/open-managed-agents](https://github.com/rogeriochaves/open-managed-agents)</sub> |
-| **[TileKernels](https://github.com/pandacooming/TileKernels)** | Exploring the systems underneath AI.<br /><sub>Upstream ↗ [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)</sub> |
+| **[hermes-agent](https://github.com/pandacooming/hermes-agent)** | AI agents.<br /><sub>From [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)</sub> |
+| **[open-managed-agents](https://github.com/pandacooming/open-managed-agents)** | Managed agent systems.<br /><sub>From [rogeriochaves/open-managed-agents](https://github.com/rogeriochaves/open-managed-agents)</sub> |
+| **[TileKernels](https://github.com/pandacooming/TileKernels)** | The systems underneath AI.<br /><sub>From [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)</sub> |
 
 <br />
 
----
-
 <p align="center">
-  <sub>Reliable foundations. Room to explore.</sub>
+  <sub>Thanks for dropping by. Happy exploring! 🌱</sub>
 </p>
