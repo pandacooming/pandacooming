@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="assets/profile-poster-editorial.png" width="100%" alt="Hey, I'm Max. Cloud, code and curiosity. I'm a cloud infrastructure engineer interested in AI agents and open source. My interests include reliable cloud infrastructure, useful agent tools, and learning from open-source projects. Projects I'm exploring: hermes-agent (NousResearch), open-managed-agents (rogeriochaves), and TileKernels (deepseek-ai). These are forks; credit goes to their upstream teams. Thanks for wandering in. Make yourself at home." />
+  <img src="assets/profile-poster-ai-infra.png" width="100%" alt="Hey, I'm Max. From cloud infrastructure to AI Infra. I'm a Linux and private cloud infrastructure engineer making my way into AI Infra. My background is in building and operating Linux systems and private cloud platforms. These days, I'm exploring the AI infrastructure stack, from the systems underneath models to the agents built on top. I learn by getting hands-on, asking questions, and contributing along the way. Open-source contributions: AIBrix — cloud-native infrastructure for LLM inference; llm-d Router — intelligent routing for LLM inference workloads; LWS — Kubernetes-native orchestration for multi-node inference; Hermes Agent — an AI agent framework that learns and grows with use. Live quietly. Build boldly. Make some noise." />
 </p>
 
 <details>
 <summary>Explore the projects ↗</summary>
 
-| My fork | Original project |
-| :--- | :--- |
-| [hermes-agent](https://github.com/pandacooming/hermes-agent) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
-| [open-managed-agents](https://github.com/pandacooming/open-managed-agents) | [rogeriochaves/open-managed-agents](https://github.com/rogeriochaves/open-managed-agents) |
-| [TileKernels](https://github.com/pandacooming/TileKernels) | [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels) |
+- [AIBrix](https://github.com/vllm-project/aibrix)
+- [llm-d Router](https://github.com/llm-d/llm-d-router)
+- [LWS](https://github.com/kubernetes-sigs/lws)
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent)
 
 </details>
