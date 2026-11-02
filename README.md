@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Max Yang — Cloud Infrastructure Engineer and AI Enthusiast. Exploring reliable systems and the next generation of AI agents." width="100%" />
+  <img src="assets/profile-banner-orbit.svg" alt="Max Yang — Cloud Infrastructure Engineer and AI Enthusiast. Exploring reliable systems and the next generation of AI agents." width="100%" />
 </p>
 
 <p align="center">
